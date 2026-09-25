@@ -1,2 +1,2 @@
-# EstateIQ-Mumbai-real-estate-Price-Prediction-using-Machine-Learning
-EstateIQ-Mumbai is an ML-powered real estate intelligence platform that predicts Mumbai property prices and provides locality insights using live news and BMC data. It combines price prediction, area intelligence, civic information, and real-time updates to help users make data-driven real estate decisions.
+# EstateIQ
+AI-powered Mumbai real estate price predictor. Random Forest model (R²: 0.9995) trained on real Mumbai housing data. Predicts property prices in ₹ Crore/Lakh using 7 features — area, locality, bedrooms, bathrooms, balconies, age &amp; floors. Built with Python, scikit-learn &amp; Flask.
